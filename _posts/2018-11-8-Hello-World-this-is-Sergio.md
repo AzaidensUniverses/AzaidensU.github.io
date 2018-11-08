@@ -7,7 +7,7 @@ My name is <strong><em>Sergio Lopez</em></strong>, attending <em>Franklin D. Roo
 
 <hr />
 
-<h4><strong>Things I love to do:</strong></h4>
+<h3><strong>Things I love to do:</strong></h3>
 I love many things and support a lot of stuff.I like food, volleyball, nature, TV, animals, food, games, practices, helping others, and food.I also love hanging out with my cousins and even thought about living in a huge mansion with them.
 
 <hr />
