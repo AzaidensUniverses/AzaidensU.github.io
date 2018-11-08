@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 ---
-<h1><img class="size-medium wp-image-33 alignleft" src="https://azaidensuniverse.files.wordpress.com/2018/09/potato.jpg?w=300" alt="" width="300" height="300" /><span style="color: #000000;"><strong>Story Line:</strong></span></h1>
+
 Hello World,
 
 My name is <strong><em>Sergio Lopez</em></strong>, attending <em>Franklin D. Roosevelt in H-tech with El centro</em>.I am 16, and my birthday is in April,so that means I'm a aries.What I wanted to be as I grew up changed.First I wanted to be a <del>doctor </del>because I wanted to fix my sisters eyes because she is blind.Then I used to play <del>soccer</del> and <del>baseball</del> it was fun at the time, I even thought of being a soccer player but it got boring because I'm not really into sports.After my elementary and 5th grade year I started to like music, I started playing flute in 7th, five years and counting.That's what slowly got me into the movie/art branch.Now I wanna be an animator or anything to do with the movie business.
