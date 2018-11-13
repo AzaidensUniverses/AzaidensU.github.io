@@ -1,7 +1,7 @@
 ---
 Layout: post
-title: Directory
-Permalink: /itse-2402/
+title: My Class
+Permalink: /directory.m/
 ---
 *[Sergio Lopez](https://azaidensuniverses.github.io/)
 *[Giselle Rivas](https://odaliss12.github.io/)
