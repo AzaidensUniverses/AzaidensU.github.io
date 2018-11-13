@@ -1,7 +1,7 @@
 ---
 Layout: post
 title: My Class
-Permalink: /directory.m/
+Permalink: /directory/
 ---
 *[Sergio Lopez](https://azaidensuniverses.github.io/)
 *[Giselle Rivas](https://odaliss12.github.io/)
