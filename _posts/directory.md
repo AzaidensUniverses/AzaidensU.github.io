@@ -1,5 +1,5 @@
 ---
-Layout: post
+Layout: page
 title: My Class
 Permalink: /directory/
 ---
