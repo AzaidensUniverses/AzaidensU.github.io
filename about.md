@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h1>My Resume</h1>
+<h2>Sergio Lopez</h2>
+<hr />
+<p>grimmlopez07@gmail.com
 
-### More Information
+<h2>Skills</h2>
 
-A place to include any other types of information that you'd like to include about yourself.
+<ul>
+  <li>Band</li>
+  <li>Debate</li>
+  <li>Flag</li>
+  <li>Junior ROTC</li>
+</ul>
 
-### Contact me
+<h2>Education</h2>
+<ul>
+  <li>High School</li>
+  <li>Early College</li>
+</ul>
 
-[email@domain.com](mailto:email@domain.com)
+<h2>Contact Us</h2>
+000-000-0000
