@@ -1,6 +1,6 @@
 <h1>My Resume</h1>
 <h2>Sergio Lopez</h2>
-
+<hr />
 <p>grimmlopez07@gmail.com
 
 <h2>Skills</h2>
