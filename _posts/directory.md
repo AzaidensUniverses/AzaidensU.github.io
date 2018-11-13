@@ -7,7 +7,7 @@ Permalink: /directory/
 * [Giselle Rivas](https://odaliss12.github.io/)
 * [Miriam Hernandez](https://miriamlaguera.github.io/)
 * [Christopher Davis](https://3036154.github.io/)
-* [Nakima Slaughter](https://nuunuu0.github.io/_posts/2018-11-8-Hello-World-this-is-Nakima.md)
+* [Nakima Slaughter](https://nuunuu0.github.io)
 * [Jihad Johnson](jihadj.github.io)
 * [Corey O'Neal](https://cohunnitshots.github.io/)
 * [Rodolfo Manriquez](https://rodolfo02002.github.io/)
